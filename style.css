@@ -1,0 +1,37 @@
+* {
+    font-family: 'Permanent Marker', cursive;  
+}
+
+.batter {
+    height: 40%;
+    width: 50%;
+}
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    font-size: 25px;
+    color: antiquewhite;
+}
+h2 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-decoration: underline;
+}
+footer {
+    justify-content: space-around;
+    background-color: blue;
+}
+.table_head {
+    background-color: blue;
+}
+.card-image{
+    z-index: -1;
+}
+.login {
+    z-index: 1;
+}
